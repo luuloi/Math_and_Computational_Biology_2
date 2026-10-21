@@ -15,9 +15,10 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_02/ch1.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 
-## [**Lecture 03. Kiến thức cơ bản về Xác suất 2 [Loi] - 22/10/2026**](Lecture_02/)
+## [**Lecture 03. Kiến thức cơ bản về Xác suất 2 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
-- [Quiz](Lecture_02/quiz2.pdf)
+- [Quiz](Lecture_02/quiz1.pdf)
+- [Task 1](Lecture_03/task1.pdf)
 
 
 
