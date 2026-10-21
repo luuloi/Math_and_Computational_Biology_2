@@ -4,7 +4,10 @@
 Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành Công Nghệ Sinh Học Số va Công Nghệ Nông Nghiệp - Đại Học Đồng Tháp
 - Giảng viên: TS. Lưu Phúc Lợi
 - Trợ giảng: CN. Phạm Hiếu Đan, CN. Nguyễn Thái Bình, DS. Nguyễn Thị Minh Toàn và CN. Vương Vũ Hoàng
+##
+[Danh Sách Lớp CNNN K26: Điểm Danh và Nộp Bài Tập](https://docs.google.com/spreadsheets/d/1Ge5T40Yv2mayubXBUVm0KYoqtNB0AzXGVX-XgLEfHlc/edit?usp=sharing)
 
+##
 ## [**Lecture 01. Giới Thiệu Môn Học "Tính Toán Sinh Học 2" [Loi] - 15/10/2026**](Lecture_01/)
 - [PDF](Lecture_01/Lecture_01.pdf)
 
