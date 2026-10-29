@@ -13,28 +13,28 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Lecture 02. Sample spaces, Events and Probability [Loi] - 20/10/2026**](Lecture_02/)
 - [PDF](Lecture_02/ch1.pdf)
-- [Quiz](Lecture_02/quiz1.pdf)
+- [Quiz 1](Lecture_02/quiz1.pdf)
 - [Homework: 1.2 & 1.3](Book/Exercises_in_Probability_2020.pdf)
 
 ## [**Lecture 03. Random Virables, Partition Theorem and Conditional Probability [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Conditional Probability & Multiplication rule](https://math.libretexts.org/Courses/Cosumnes_River_College/STAT_300%3A_Introduction_to_Probability_and_Statistics_(Nam_Lam)/04%3A_Probability/4.03%3A_Conditional_Probability)
-- [Quiz](Lecture_02/quiz1.pdf)
-- [Task 1](Lecture_03/task1.pdf)
+- [Quiz 1](Lecture_02/quiz1.pdf)
+- [Task 1](Lecture_02/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
   
 ## [**Lecture 04. Bayes' Theorem [Loi] - 25/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Bayes' Theorem](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/07%3A_Week_7/7.01%3A_Bayes'_Theorem)
 - [Quiz](Lecture_02/quiz1.pdf)
-- [Task 1](Lecture_03/task1.pdf)
+- [Task 1](Lecture_02/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
 
 ## [**Lecture 05. Statistical Independence and Probability Reference List [Loi] - 27/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Statistical Independence](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/06%3A_Week_6/6.02%3A_Independence)
 - [Quiz](Lecture_02/quiz1.pdf)
-- [Task 1](Lecture_03/task1.pdf)
+- [Task 1](Lecture_02/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
 
 ## [**Tutorial 01. Chapter 1 [Loi] - 29/10/2026**](Tutorial_01/)
