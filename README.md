@@ -33,12 +33,12 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [Assignment 1](Lecture_05/asgn1.pdf)
 
 ## [**Tutorial 01. Chapter 1 [Loi] - 29/10/2026**](Tutorial_01/)
-- [Quiz 1](Tutorial_01/)
-- [Task 1](Tutorial_01/)
+- [Sol to Quiz 1](Tutorial_01/)
+- [Sol to Task 1](Tutorial_01/)
 
 ## [**Tutorial 02. Chapter 1 [Loi] - 01/11/2026**](Tutorial_02/)
-- [Homework](Tutorial_02/)
-- [Assignment 1](Tutorial_02/)
+- [Sol to Homework](Tutorial_02/)
+- [Sol to Assignment 1](Tutorial_02/)
 
 ## [**Lecture 06. Discrete Probability Distributions 1 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_06/ch2.pdf)
