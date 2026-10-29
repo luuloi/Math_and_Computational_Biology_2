@@ -30,7 +30,7 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 ## [**Lecture 05. Statistical Independence and Probability Reference List [Loi] - 27/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Statistical Independence](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/06%3A_Week_6/6.02%3A_Independence)
-- [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
+- [Assignment 1](Lecture_05/asgn1.pdf)
 
 ## [**Tutorial 01. Chapter 1 [Loi] - 29/10/2026**](Tutorial_01/)
 
