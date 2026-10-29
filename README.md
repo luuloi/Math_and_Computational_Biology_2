@@ -14,21 +14,21 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 ## [**Lecture 02. Sample spaces, Events and Probability [Loi] - 20/10/2026**](Lecture_02/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Quiz 1](Lecture_02/quiz1.pdf)
-- [Homework](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/04%3A_Week_4/4.01%3A_Simple_Sample_Spaces)
+- [Homework 1](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/04%3A_Week_4/4.01%3A_Simple_Sample_Spaces)
 
 ## [**Lecture 03. Random Virables, Partition Theorem and Conditional Probability [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
-- [Homework 1](https://math.libretexts.org/Courses/Cosumnes_River_College/STAT_300%3A_Introduction_to_Probability_and_Statistics_(Nam_Lam)/04%3A_Probability/4.03%3A_Conditional_Probability)
+- [Homework 2](https://math.libretexts.org/Courses/Cosumnes_River_College/STAT_300%3A_Introduction_to_Probability_and_Statistics_(Nam_Lam)/04%3A_Probability/4.03%3A_Conditional_Probability)
 - [Task 1](Lecture_02/task1.pdf)
   
 ## [**Lecture 04. Bayes' Theorem [Loi] - 25/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
-- [Homework 2](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/07%3A_Week_7/7.01%3A_Bayes'_Theorem)
+- [Homework 3](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/07%3A_Week_7/7.01%3A_Bayes'_Theorem)
 
 ## [**Lecture 05. Statistical Independence and Probability Reference List [Loi] - 27/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Statistical Independence](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/06%3A_Week_6/6.02%3A_Independence)
-- [Homework 3](https://math.libretexts.org/Courses/Cosumnes_River_College/STAT_300%3A_Introduction_to_Probability_and_Statistics_(Nam_Lam)/04%3A_Probability/4.02%3A_Theoretical_Probability)
+- [Homework 4](https://math.libretexts.org/Courses/Cosumnes_River_College/STAT_300%3A_Introduction_to_Probability_and_Statistics_(Nam_Lam)/04%3A_Probability/4.02%3A_Theoretical_Probability)
 - [Assignment 1](Lecture_05/asgn1.pdf)
 
 ## [**Tutorial 01. Chapter 1 [Loi] - 29/10/2026**](Tutorial_01/)
@@ -36,7 +36,7 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [Sol to Task 1](Tutorial_01/)
 
 ## [**Tutorial 02. Chapter 1 [Loi] - 01/11/2026**](Tutorial_02/)
-- [Sol to Homework 1, 2, 3](Tutorial_02/)
+- [Sol to Homework 1, 2, 3, 4](Tutorial_02/)
 - [Sol to Assignment 1](Tutorial_02/)
 
 ## [**Lecture 06. Discrete Probability Distributions 1 [Loi] - 22/10/2026**](Lecture_03/)
