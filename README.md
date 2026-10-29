@@ -20,12 +20,12 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_02/ch1.pdf)
 - [Conditional Probability & Multiplication rule](https://math.libretexts.org/Courses/Cosumnes_River_College/STAT_300%3A_Introduction_to_Probability_and_Statistics_(Nam_Lam)/04%3A_Probability/4.03%3A_Conditional_Probability)
 - [Task 1](Lecture_02/task1.pdf)
-- [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
+- [Homework: 1.4 & 1.5](Book/Exercises_in_Probability_2020.pdf)
   
 ## [**Lecture 04. Bayes' Theorem [Loi] - 25/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Bayes' Theorem](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/07%3A_Week_7/7.01%3A_Bayes'_Theorem)
-- [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
+- [Homework: 1.7 & 1.8](Book/Exercises_in_Probability_2020.pdf)
 
 ## [**Lecture 05. Statistical Independence and Probability Reference List [Loi] - 27/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
@@ -40,7 +40,7 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_06/ch2.pdf)
 - [Quiz]()
 - [Task 1](Lecture_06/task2.pdf)
-- [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
+- [Homework: 2.1](Book/Exercises_in_Probability_2020.pdf)
 
 ## [**Lab 01. Introduction to R and Google Colab [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
@@ -52,7 +52,7 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_02/ch2.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
-- [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
+- [Homework: 2.3](Book/Exercises_in_Probability_2020.pdf)
 
 ## [**Lab 02. Data Type and Struture in R [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
