@@ -33,14 +33,17 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [Assignment 1](Lecture_05/asgn1.pdf)
 
 ## [**Tutorial 01. Chapter 1 [Loi] - 29/10/2026**](Tutorial_01/)
+- [Quiz 1](Tutorial_01/)
+- [Task 1](Tutorial_01/)
 
 ## [**Tutorial 02. Chapter 1 [Loi] - 01/11/2026**](Tutorial_02/)
+- [Homework](Tutorial_02/)
+- [Assignment 1](Tutorial_02/)
 
 ## [**Lecture 06. Discrete Probability Distributions 1 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_06/ch2.pdf)
-- [Quiz]()
-- [Task 1](Lecture_06/task2.pdf)
-- [Homework: 2.1](Book/Exercises_in_Probability_2020.pdf)
+- [Quiz 2](Lecture_06/quiz2.pdf)
+- [Task 2](Lecture_06/task2.pdf)
 
 ## [**Lab 01. Introduction to R and Google Colab [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
@@ -51,7 +54,7 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 ## [**Lecture 07. Discrete Probability Distributions 2 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch2.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
-- [Task 1](Lecture_03/task1.pdf)
+- [Task 2](Lecture_06/task2.pdf)
 - [Homework: 2.3](Book/Exercises_in_Probability_2020.pdf)
 
 ## [**Lab 02. Data Type and Struture in R [Loi] - 22/10/2026**](Lecture_03/)
