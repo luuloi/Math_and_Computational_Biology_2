@@ -27,8 +27,8 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Lecture 05. Statistical Independence and Probability Reference List [Loi] - 27/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
-- [Statistical Independence](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/06%3A_Week_6/6.02%3A_Independence)
-- [Homework 4](https://math.libretexts.org/Courses/Cosumnes_River_College/STAT_300%3A_Introduction_to_Probability_and_Statistics_(Nam_Lam)/04%3A_Probability/4.02%3A_Theoretical_Probability)
+- [Homework 4](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/06%3A_Week_6/6.02%3A_Independence)
+- [Homework 5](https://math.libretexts.org/Courses/Cosumnes_River_College/STAT_300%3A_Introduction_to_Probability_and_Statistics_(Nam_Lam)/04%3A_Probability/4.02%3A_Theoretical_Probability)
 - [Assignment 1](Lecture_05/asgn1.pdf)
 
 ## [**Tutorial 01. Chapter 1 [Loi] - 29/10/2026**](Tutorial_01/)
@@ -36,39 +36,53 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [Sol to Task 1](Tutorial_01/)
 
 ## [**Tutorial 02. Chapter 1 [Loi] - 01/11/2026**](Tutorial_02/)
-- [Sol to Homework 1, 2, 3, 4](Tutorial_02/)
+- [Sol to Homework 1, 2, 3, 4, 5](Tutorial_02/)
 - [Sol to Assignment 1](Tutorial_02/)
 
-## [**Lecture 06. Discrete Probability Distributions 1 [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 06. Foundations of Statistical Inference 1 [Loi] - 03/11/2026**](Lecture_06/)
 - [PDF](Lecture_06/ch2.pdf)
 - [Quiz 2](Lecture_06/quiz2.pdf)
 
-## [**Lab 01. Introduction to R and Google Colab [Loi] - 22/10/2026**](Lecture_03/)
-- [PDF](Lecture_02/ch1.pdf)
+## [**Lab 01. Introduction to R and Google Colab [Loi] - 22/10/2026**](Lab_01/)
+- [PDF]()
 
-## [**Lecture 07. Discrete Probability Distributions 2 [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 07. Foundations of Statistical Inference 2 [Loi] - 05/11/2026**](Lecture_07/)
+- [PDF](Lecture_06/ch2.pdf)
+- [Quiz 2](Lecture_06/quiz2.pdf)
+
+## [**Lecture 08. Foundations of Statistical Inference 3 [Loi] - 08/11/2026**](Lecture_08/)
+- [PDF](Lecture_06/ch2.pdf)
+- [Quiz 2](Lecture_06/quiz2.pdf)
+  
+## [**Lecture 09. Discrete Probability Distributions 1 [Loi] - 22/11/2026**](Lecture_09/)
 - [PDF](Lecture_07/ch2.pdf)
 - [Task 2](Lecture_07/task2.pdf)
 
-## [**Lab 02. Data Type and Struture in R [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lab 02. Data Type and Struture in R [Loi] - 22/10/2026**](Lab_02/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
 
-## [**Lecture 08. Discrete Probability Distributions 3 [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 10. Discrete Probability Distributions 2 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch2.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
 
-## [**Lab 02. Control Flow in R [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 11. Discrete Probability Distributions 3 [Loi] - 22/10/2026**](Lecture_03/)
+- [PDF](Lecture_02/ch2.pdf)
+- [Quiz](Lecture_02/quiz1.pdf)
+- [Task 1](Lecture_03/task1.pdf)
+- [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
+
+## [**Lab 02. Control Flow in R [Loi] - 22/10/2026**](Lab_02/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
 
-## [**Lecture 09. Modelling with Discrete Probability Distributions 1 [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 12. Modelling with Discrete Probability Distributions 1 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
@@ -80,7 +94,7 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [Task 1](Lecture_03/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
   
-## [**Lecture 10. Modelling with Discrete Probability Distributions 2 [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 13. Modelling with Discrete Probability Distributions 2 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
@@ -92,37 +106,35 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [Task 1](Lecture_03/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
 
-## [**Lecture 11. Continuous Random Variables 1 [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 14. Continuous Random Variables 1 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
 
-## [**Lecture 12. Continuous Random Variables 2 [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 15. Continuous Random Variables 2 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
 
-## [**Lecture 13. Continuous Random Variables 3 [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 16. Continuous Random Variables 3 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
 
-## [**Lecture 14. The Normal Distribution and the Central Limit Theorem [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 17. The Normal Distribution and the Central Limit Theorem [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
 
-## [**Lecture 15. Review [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 18. Review [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
-
-
 
   
 
