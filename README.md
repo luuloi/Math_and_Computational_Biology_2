@@ -32,8 +32,8 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [Assignment 1](Lecture_05/asgn1.pdf)
 
 ## [**Tutorial 01. Chapter 1 [Loi] - 29/10/2026**](Tutorial_01/)
-- [Sol to Quiz 1](Tutorial_01/)
-- [Sol to Task 1](Tutorial_01/)
+- [Sol to Quiz 1](Tutorial_01/quiz1ans.pdf)
+- [Sol to Task 1](Tutorial_01/task1ans.pdf)
 
 ## [**Tutorial 02. Chapter 1 [Loi] - 01/11/2026**](Tutorial_02/)
 - [Sol to Homework 1, 2, 3, 4, 5](Tutorial_02/)
