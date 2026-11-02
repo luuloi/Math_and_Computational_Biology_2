@@ -36,8 +36,8 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [Sol to Task 1](Tutorial_01/task1ans.pdf)
 
 ## [**Tutorial 02. Chapter 1 [Loi] - 01/11/2026**](Tutorial_02/)
-- [Sol to Homework 1, 2, 3, 4, 5](Tutorial_02/)
-- [Sol to Assignment 1](Tutorial_02/)
+- Sol to Homework 1, 2, 3, 4, 5
+- [Sol to Assignment 1](Tutorial_02/a1ans.pdf)
 
 ## [**Lecture 06. Foundations of Statistical Inference 1 [Loi] - 03/11/2026**](Lecture_06/)
 - [PDF](Lecture_06/ch2.pdf)
