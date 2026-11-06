@@ -43,12 +43,12 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_06/ch2.pdf)
 - [Quiz 2](Lecture_06/quiz2.pdf)
 
-## [**Lab 01. Introduction to R and Google Colab [Loi] - 22/10/2026**](Lab_01/)
-- [PDF]()
-
 ## [**Lecture 07. Foundations of Statistical Inference 2 [Loi] - 05/11/2026**](Lecture_07/)
 - [PDF](Lecture_06/ch2.pdf)
-- [Quiz 2](Lecture_06/quiz2.pdf)
+- [Task 2](Lecture_06/task2.pdf)
+
+## [**Lab 01. Introduction to R and Google Colab [Loi] - 06/11/2026**](Lab_01/)
+- [Google Colab](https://colab.research.google.com/drive/1aMJQB1r7RX07MJqznkM2WVB2r_aS60Ah?usp=sharing)
 
 ## [**Lecture 08. Foundations of Statistical Inference 3 [Loi] - 08/11/2026**](Lecture_08/)
 - [PDF](Lecture_06/ch2.pdf)
