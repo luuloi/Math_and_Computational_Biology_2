@@ -64,32 +64,31 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Lecture 11. Foundations of Statistical Inference 6 [Loi] - 15/11/2026**](Lecture_11/)
 - [PDF](Lecture_06/ch2.pdf)
-- [Assignment](Lecture_11/.pdf)
+- [Assignment 2](Lecture_11/asgn2.pdf)
 
 ## [**Lab 02. Data Type and Struture in R [Loi] - 15/11/2026**](Lab_02/)
 - [Google Colab](https://colab.research.google.com/drive/1aMJQB1r7RX07MJqznkM2WVB2r_aS60Ah?usp=sharing)
 
 ## [**Lecture 12. Foundations of Statistical Inference 7 [Loi] - 17/11/2026**](Lecture_12/)
 - [PDF](Lecture_06/ch2.pdf)
-- [Assignment](Lecture_12/quiz3.pdf)
 
 ## [**Lab 03. Control Flow in R [Loi] - 17/11/2026**](Lab_03/)
 - [Google Colab](https://colab.research.google.com/drive/1aMJQB1r7RX07MJqznkM2WVB2r_aS60Ah?usp=sharing)
 
 ## [**Lecture 13. Foundations of Statistical Inference 8 [Loi] - 19/11/2026**](Lecture_13/)
 - [PDF](Lecture_06/ch2.pdf)
-- [Assignment](Lecture_13/quiz3.pdf)
 
 ## [**Tutorial 03. Chapter 2 [Loi] - 22/11/2026**](Tutorial_03/)
-- [Sol to Quiz 2](Tutorial_03/a1ans.pdf)
-- [Sol to Quiz 3](Tutorial_03/a1ans.pdf)
-- [Sol to Quiz 4](Tutorial_03/a1ans.pdf)
-- [Sol to Assignment 2](Tutorial_03/a1ans.pdf)
+- [Sol to Quiz 2](Tutorial_03/a2ans.pdf)
+- [Sol to Quiz 3](Tutorial_03/a3ans.pdf)
+- [Sol to Quiz 4](Tutorial_03/a4ans.pdf)
 
 ## [**Lecture 14. Review: Foundations of Probability & Statistical Inference [Loi] - 24/11/2026**](Lecture_14/)
+- [Sol to Task 2](Tutorial_03/task2ans.pdf)
+- [Sol to Task 3](Tutorial_03/task3ans.pdf)
 
 ## [**Lecture 15. Review: Basic R in Foundation of Statistics [Loi] - 26/11/2026**](Lecture_15/)
-
+- [Sol to Assignment 2](Lecture_15/a2ans.pdf)
 
 ## [**Lecture 16. Foundations of Statistical Inference 7 [Loi] - 19/11/2026**](Lecture_11/)
 - [PDF](Lecture_06/ch2.pdf)
