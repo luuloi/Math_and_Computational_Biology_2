@@ -66,14 +66,14 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_06/ch2.pdf)
 - [Assignment 2](Lecture_11/asgn2.pdf)
 
-## [**Lab 02. Data Type and Struture in R [Loi] - 15/11/2026**](Lab_02/)
-- [Google Colab](https://colab.research.google.com/drive/1aMJQB1r7RX07MJqznkM2WVB2r_aS60Ah?usp=sharing)
+## [**Lab 02. Patterned Vectors in R [Loi] - 15/11/2026**](Lab_02/)
+- [Google Colab](https://colab.research.google.com/drive/1upbh8RclX53xx29fpyNRWcqkvv0YI280?usp=sharing)
 
 ## [**Lecture 12. Foundations of Statistical Inference 7 [Loi] - 17/11/2026**](Lecture_12/)
 - [PDF](Lecture_06/ch2.pdf)
 
 ## [**Lab 03. Control Flow in R [Loi] - 17/11/2026**](Lab_03/)
-- [Google Colab](https://colab.research.google.com/drive/1aMJQB1r7RX07MJqznkM2WVB2r_aS60Ah?usp=sharing)
+- [Google Colab](https://colab.research.google.com/drive/1shh2V-KWHW4q9bWr6lS6Z9VPVram8zsC?usp=sharing)
 
 ## [**Lecture 13. Foundations of Statistical Inference 8 [Loi] - 19/11/2026**](Lecture_13/)
 - [PDF](Lecture_06/ch2.pdf)
@@ -89,3 +89,4 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Lecture 15. Review: Basic R in Foundation of Statistics [Loi] - 26/11/2026**](Lecture_15/)
 - [Sol to Assignment 2](Lecture_15/a2ans.pdf)
+- [R for modeling Binomial Distribution and Hypothesis Testing](https://colab.research.google.com/drive/1shh2V-KWHW4q9bWr6lS6Z9VPVram8zsC?usp=sharing)
