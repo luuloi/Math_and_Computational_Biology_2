@@ -52,37 +52,66 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Lecture 08. Foundations of Statistical Inference 3 [Loi] - 08/11/2026**](Lecture_08/)
 - [PDF](Lecture_06/ch2.pdf)
-- [Quiz 2](Lecture_06/quiz2.pdf)
-  
-## [**Lecture 09. Discrete Probability Distributions 1 [Loi] - 22/11/2026**](Lecture_09/)
-- [PDF](Lecture_07/ch2.pdf)
-- [Task 2](Lecture_07/task2.pdf)
+- [Quiz 3](Lecture_08/quiz3.pdf)
 
-## [**Lab 02. Data Type and Struture in R [Loi] - 22/10/2026**](Lab_02/)
-- [PDF](Lecture_02/ch1.pdf)
-- [Quiz](Lecture_02/quiz1.pdf)
-- [Task 1](Lecture_03/task1.pdf)
-- [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
+## [**Lecture 09. Foundations of Statistical Inference 4 [Loi] - 10/11/2026**](Lecture_09/)
+- [PDF](Lecture_06/ch2.pdf)
+- [Task 3](Lecture_09/task3.pdf)
 
-## [**Lecture 10. Discrete Probability Distributions 2 [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 10. Foundations of Statistical Inference 5 [Loi] - 12/11/2026**](Lecture_10/)
+- [PDF](Lecture_06/ch2.pdf)
+- [Quiz 4](Lecture_10/quiz4.pdf)
+
+## [**Lecture 11. Foundations of Statistical Inference 6 [Loi] - 15/11/2026**](Lecture_11/)
+- [PDF](Lecture_06/ch2.pdf)
+- [Assignment](Lecture_11/.pdf)
+
+## [**Lab 02. Data Type and Struture in R [Loi] - 15/11/2026**](Lab_02/)
+- [Google Colab](https://colab.research.google.com/drive/1aMJQB1r7RX07MJqznkM2WVB2r_aS60Ah?usp=sharing)
+
+## [**Lecture 12. Foundations of Statistical Inference 7 [Loi] - 17/11/2026**](Lecture_12/)
+- [PDF](Lecture_06/ch2.pdf)
+- [Assignment](Lecture_12/quiz3.pdf)
+
+## [**Lab 03. Control Flow in R [Loi] - 17/11/2026**](Lab_03/)
+- [Google Colab](https://colab.research.google.com/drive/1aMJQB1r7RX07MJqznkM2WVB2r_aS60Ah?usp=sharing)
+
+## [**Lecture 13. Foundations of Statistical Inference 8 [Loi] - 19/11/2026**](Lecture_13/)
+- [PDF](Lecture_06/ch2.pdf)
+- [Assignment](Lecture_13/quiz3.pdf)
+
+## [**Tutorial 03. Chapter 2 [Loi] - 22/11/2026**](Tutorial_03/)
+- [Sol to Quiz 2](Tutorial_03/a1ans.pdf)
+- [Sol to Quiz 3](Tutorial_03/a1ans.pdf)
+- [Sol to Quiz 4](Tutorial_03/a1ans.pdf)
+- [Sol to Assignment 2](Tutorial_03/a1ans.pdf)
+
+## [**Lecture 14. Review: Foundations of Probability & Statistical Inference [Loi] - 24/11/2026**](Lecture_14/)
+
+## [**Lecture 15. Review: Basic R in Foundation of Statistics [Loi] - 26/11/2026**](Lecture_15/)
+
+
+## [**Lecture 16. Foundations of Statistical Inference 7 [Loi] - 19/11/2026**](Lecture_11/)
+- [PDF](Lecture_06/ch2.pdf)
+- [Assignment](Lecture_11/quiz3.pdf)
+
+## [**Lecture 17. Discrete Probability Distributions 1 [Loi] - 22/11/2026**](Lecture_09/)
+- [PDF](Lecture_06/ch2.pdf)
+- [Task 3](Lecture_09/task2.pdf)
+
+## [**Lecture 18. Discrete Probability Distributions 2 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch2.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
 
-## [**Lecture 11. Discrete Probability Distributions 3 [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 19. Discrete Probability Distributions 3 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch2.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
 - [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
 
-## [**Lab 02. Control Flow in R [Loi] - 22/10/2026**](Lab_02/)
-- [PDF](Lecture_02/ch1.pdf)
-- [Quiz](Lecture_02/quiz1.pdf)
-- [Task 1](Lecture_03/task1.pdf)
-- [Homework: 1.4 to 1.8](Book/Exercises_in_Probability_2020.pdf)
-
-## [**Lecture 12. Modelling with Discrete Probability Distributions 1 [Loi] - 22/10/2026**](Lecture_03/)
+## [**Lecture 20. Modelling with Discrete Probability Distributions 1 [Loi] - 22/10/2026**](Lecture_03/)
 - [PDF](Lecture_02/ch1.pdf)
 - [Quiz](Lecture_02/quiz1.pdf)
 - [Task 1](Lecture_03/task1.pdf)
