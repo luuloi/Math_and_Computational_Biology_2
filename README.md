@@ -76,7 +76,7 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Lab 03. Control Flow in R [Loi] - 17/11/2026**](Lab_03/)
 - [Google Colab](https://colab.research.google.com/drive/1shh2V-KWHW4q9bWr6lS6Z9VPVram8zsC?usp=sharing)
-- [Lab Homework](Lab_03/)
+- [Lab Homework](https://colab.research.google.com/drive/1vh5VQ2OfIuuaEBmBqjy6XpL1Fv7KkGUT?usp=sharing)
 
 ## [**Lecture 13. Foundations of Statistical Inference 8 [Loi] - 19/11/2026**](Lecture_13/)
 - [PDF](Lecture_06/ch2.pdf)
