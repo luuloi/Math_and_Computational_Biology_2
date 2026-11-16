@@ -49,6 +49,7 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Lab 01. Introduction to R and Google Colab [Loi] - 06/11/2026**](Lab_01/)
 - [Google Colab](https://colab.research.google.com/drive/1aMJQB1r7RX07MJqznkM2WVB2r_aS60Ah?usp=sharing)
+- [R Basic Cheat Sheet](Lab_01/Basic_R_Cheat-Sheet.pdf)
 
 ## [**Lecture 08. Foundations of Statistical Inference 3 [Loi] - 08/11/2026**](Lecture_08/)
 - [PDF](Lecture_06/ch2.pdf)
@@ -68,12 +69,14 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Lab 02. Patterned Vectors in R [Loi] - 15/11/2026**](Lab_02/)
 - [Google Colab](https://colab.research.google.com/drive/1upbh8RclX53xx29fpyNRWcqkvv0YI280?usp=sharing)
+- [R Programming Cheat Sheet](Lab_02/R-Programming-Cheat-Sheet.pdf)
 
 ## [**Lecture 12. Foundations of Statistical Inference 7 [Loi] - 17/11/2026**](Lecture_12/)
 - [PDF](Lecture_06/ch2.pdf)
 
 ## [**Lab 03. Control Flow in R [Loi] - 17/11/2026**](Lab_03/)
 - [Google Colab](https://colab.research.google.com/drive/1shh2V-KWHW4q9bWr6lS6Z9VPVram8zsC?usp=sharing)
+- [Lab Homework](Lab_03/)
 
 ## [**Lecture 13. Foundations of Statistical Inference 8 [Loi] - 19/11/2026**](Lecture_13/)
 - [PDF](Lecture_06/ch2.pdf)
