@@ -71,15 +71,19 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [Google Colab](https://colab.research.google.com/drive/1upbh8RclX53xx29fpyNRWcqkvv0YI280?usp=sharing)
 - [R Programming Cheat Sheet](Lab_02/R-Programming-Cheat-Sheet.pdf)
 
-## [**Lecture 12. Foundations of Statistical Inference 7 [Loi] - 17/11/2026**](Lecture_12/)
+## [**Lecture 12. Expectation, Mean (Average) and Variance [Loi] - 17/11/2026**](Lecture_12/)
 - [PDF](Lecture_06/ch2.pdf)
-
+- [Expectation and Variance example](https://math.libretexts.org/Courses/Mount_Royal_University/Mathematical_Reasoning/5%3A_Basic_Concepts_of_Probability/5.3%3A_Expected_value)
+- [Homework 6: Expectation](https://online.stat.psu.edu/stat414/Lesson08)
+  
 ## [**Lab 03. Control Flow in R [Loi] - 17/11/2026**](Lab_03/)
 - [Google Colab](https://colab.research.google.com/drive/1shh2V-KWHW4q9bWr6lS6Z9VPVram8zsC?usp=sharing)
 - [Lab Homework](https://colab.research.google.com/drive/1vh5VQ2OfIuuaEBmBqjy6XpL1Fv7KkGUT?usp=sharing)
 
 ## [**Lecture 13. Foundations of Statistical Inference 8 [Loi] - 19/11/2026**](Lecture_13/)
 - [PDF](Lecture_06/ch2.pdf)
+- [Homework 7: Expectation](https://math.libretexts.org/Courses/Prince_Georges_Community_College/MAT_1130_Mathematical_Ideas_Mirtova_Jones_(PGCC%3A_Fall_2022)/03%3A_Probability/3.03%3A_Expected_Value)
+- [Homework 8: Variance](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/09%3A_Week_9/9.01%3A_Variances)
 
 ## [**Tutorial 03. Chapter 2 [Loi] - 22/11/2026**](Tutorial_03/)
 - [Sol to Quiz 2](Tutorial_03/a2ans.pdf)
@@ -89,7 +93,10 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 ## [**Lecture 14. Review: Foundations of Probability & Statistical Inference [Loi] - 24/11/2026**](Lecture_14/)
 - [Sol to Task 2](Tutorial_03/task2ans.pdf)
 - [Sol to Task 3](Tutorial_03/task3ans.pdf)
+- [Sol to Homework 6,7 and 8]()
 
 ## [**Lecture 15. Review: Basic R in Foundation of Statistics [Loi] - 26/11/2026**](Lecture_15/)
 - [Sol to Assignment 2](Lecture_15/a2ans.pdf)
 - [R for modeling Binomial Distribution and Hypothesis Testing](https://colab.research.google.com/drive/1shh2V-KWHW4q9bWr6lS6Z9VPVram8zsC?usp=sharing)
+
+
