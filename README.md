@@ -13,6 +13,7 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Lecture 02. Sample spaces, Events and Probability [Loi] - 20/10/2026**](Lecture_02/)
 - [PDF](Lecture_02/ch1.pdf)
+- [Examples: Events and Probability Rules](https://math.libretexts.org/Courses/Prince_Georges_Community_College/MAT_1130_Mathematical_Ideas_Mirtova_Jones_(PGCC%3A_Fall_2022)/03%3A_Probability/3.04%3A_Working_with_Events)
 - [Quiz 1](Lecture_02/quiz1.pdf)
 - [Homework 1](https://math.libretexts.org/Courses/Queens_College/Introduction_to_Probability_and_Mathematical_Statistics/04%3A_Week_4/4.01%3A_Simple_Sample_Spaces)
 
