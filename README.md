@@ -100,8 +100,8 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [R Advanced: Questions from 51 to 60](https://colab.research.google.com/drive/1vh5VQ2OfIuuaEBmBqjy6XpL1Fv7KkGUT?usp=sharing)
 
 ## [**Lecture 15. Self-study: Three Sample Tests [Loi] - 26/11/2026**](Lecture_15/)
-- [Test 1]()
-- [Test 2]()
-- [Test 3]()
+- [Test 1](Lecture_15/De_1_Muc_do_De.pdf)
+- [Test 2](Lecture_15/De_2_Muc_do_Trung_binh.pdf)
+- [Test 3](Lecture_15/De_3_Muc_do_Kho.pdf)
 - [30 Multiple Choice Questions](https://notebooklm.link.google/OjTmO36l8kPI)
 
