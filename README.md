@@ -99,7 +99,7 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Lecture 15. Review: Basic R in Foundation of Statistics [Loi] - 26/11/2026**](Lecture_15/)
 - [Sol to Assignment 2](Lecture_15/a2ans.pdf)
-- [R for modeling Binomial Distribution and Hypothesis Testing: Questions from 36 to 50](https://colab.research.google.com/drive/1shh2V-KWHW4q9bWr6lS6Z9VPVram8zsC?usp=sharing)
-- [R Advanced: Questions from 51 to 60](https://colab.research.google.com/drive/1shh2V-KWHW4q9bWr6lS6Z9VPVram8zsC?usp=sharing)
+- [R for modeling Binomial Distribution and Hypothesis Testing: Questions from 36 to 50](https://colab.research.google.com/drive/1vh5VQ2OfIuuaEBmBqjy6XpL1Fv7KkGUT?usp=sharing)
+- [R Advanced: Questions from 51 to 60](https://colab.research.google.com/drive/1vh5VQ2OfIuuaEBmBqjy6XpL1Fv7KkGUT?usp=sharing)
 
 
