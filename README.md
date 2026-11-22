@@ -85,9 +85,9 @@ Môn Tính Toán Sinh Học 2 dành cho sinh viên năm nhất chuyên ngành C�
 - [Lab Homework: Questions from 19 to 35](https://colab.research.google.com/drive/1vh5VQ2OfIuuaEBmBqjy6XpL1Fv7KkGUT?usp=sharing)
 
 ## [**Tutorial 03. Chapter 2 [Loi] - 22/11/2026**](Tutorial_03/)
-- [Sol to Quiz 2](Tutorial_03/a2ans.pdf)
-- [Sol to Quiz 3](Tutorial_03/a3ans.pdf)
-- [Sol to Quiz 4](Tutorial_03/a4ans.pdf)
+- [Sol to Quiz 2](Tutorial_03/quiz2ans.pdf)
+- [Sol to Quiz 3](Tutorial_03/quiz3ans.pdf)
+- [Sol to Quiz 4](Tutorial_03/quiz4ans.pdf)
 
 ## [**Lecture 13. Review: Foundations of Probability & Statistical Inference [Loi] - 22/11/2026**](Lecture_13/)
 - [Sol to Task 2](Tutorial_03/task2ans.pdf)
